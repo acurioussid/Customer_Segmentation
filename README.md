@@ -1,5 +1,5 @@
 # Customer_Segmentation
-This project aims to improve sales and customer management for a mall by leveraging data analytics. Using RFM analysis, predictive modeling, and sales trend identification, the project will optimize inventory, pricing &amp; staffing. The goal is to increase revenue &amp; customer satisfaction through targeted marketing and personalized communication.
+This project aims to improve sales and customer management for a mall by applying data analytics. Using RFM analysis, predictive modeling, and sales trend identification, the project will optimize inventory, pricing &amp; staffing. The goal is to increase revenue &amp; customer satisfaction through targeted marketing and personalized communication.
 
 # Objective
 - Utilize RFM analysis to segment customers based on their purchase recency, frequency, and monetary value, enabling targeted marketing efforts and personalized communication with customers.
